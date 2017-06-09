@@ -50,4 +50,4 @@ illegal character).
 If you'd like to go a little bit further, you could use the class
 `IFTTTWebhook(key, event_name)` to customize your requests.
 Requests are sent from this class with the method
- `send(value1=None, value2=None, value3=None`.
+ `send(value1=None, value2=None, value3=None)`.
