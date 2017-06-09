@@ -1,0 +1,17 @@
+### VirtualEnv template
+
+# Python
+.Python
+venv
+
+__pycache__/
+*.py[cod]
+*.so
+*.egg-info/
+*.egg
+
+# macOS
+*.DS_Store
+
+# JetBrains
+.idea/
